@@ -1,7 +1,7 @@
 body{
     /*background: #add8e6; */
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-    background-image: url("weather.png");
+    background-image: url("weather2.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -13,12 +13,12 @@ body{
     /* grid-template-columns:  */
     height:100vh;
    /* background: #add8e6;*/
-    color: #04b6ec;
+    color: #000;
     justify-content: center;
     grid-gap: 1em;
     font-size: 20px;
     font-family: 'Oswald', sans-serif;
-    
+
 }
 
 .holder{
@@ -98,20 +98,20 @@ button:focus {
     outline: none;
 }
 /* Style for Placeholder Text*/
-::placeholder { /* Firefox, Chrome, Opera */ 
-    color: #1f08a1; 
+::placeholder { /* Firefox, Chrome, Opera */
+    color: #1f08a1;
     font-family: 'Oswald', sans-serif;
 
-} 
-  
-:-ms-input-placeholder { /* Internet Explorer 10-11 */ 
-    color: #1f08a1; 
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #1f08a1;
     font-family: 'Oswald', sans-serif;
 
-} 
-  
-::-ms-input-placeholder { /* Microsoft Edge */ 
-    color: #1f08a1; 
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: #1f08a1;
     font-family: 'Oswald', sans-serif;
 
-} 
+}
